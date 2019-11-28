@@ -27,3 +27,5 @@ This repository contains implementations of basic machine learning algorithms in
 12. [KMeans](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/KMeans.ipynb)
 
 13. [Wrapper methods implementation - Forward and Backward](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Wrapper%20Method%20For%20Feature%20Selection%20-%20Forward%20and%20Backward%20.ipynb)
+
+14. [Multiclass Gaussian Discriminat Analyses](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Multi%20Class%20Gaussian%20Discriminant%20Analyses.ipynb)
