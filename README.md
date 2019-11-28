@@ -1,6 +1,6 @@
 # Basic Machine Learning Implementation with Python and Numpy
 
-This repository contains implementations of basic machine learning algorithms in Python and Numpy (Python Version 3.6+). All algorithms are implemented from scratch without using additional machine learning libraries. The intention of these notebooks is to provide a basic understanding of the algorithms and their underlying structure, <em>not</em> to provide the most efficient implementations.
+This repository contains implementations of basic machine learning algorithms in Python and Numpy. All algorithms are implemented from scratch without using additional machine learning libraries. The intention of these notebooks is to provide a basic understanding of the algorithms and their underlying structure, <em>not</em> to provide the most efficient implementations.
 
 1. [Linear Regression ](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Linear%20Regression%20Implementation%20from%20scratch.ipynb)
 
