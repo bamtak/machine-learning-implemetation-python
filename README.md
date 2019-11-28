@@ -4,7 +4,7 @@ This repository contains implementations of basic machine learning algorithms in
 
 1. [Linear Regression ](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Linear%20Regression%20Implementation%20from%20scratch.ipynb)
 
-2. [Logistic Regression ](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Gaussian%20Discriminant%20Analyses.ipynb)
+2. [Logistic Regression ](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Logistic%20Regression.ipynb)
 
 3. [Multi class Logisic Regression](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Multi%20Class%20Logistic%20Regression.ipynb)
 
