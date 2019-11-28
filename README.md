@@ -16,11 +16,11 @@ This repository contains implementations of basic machine learning algorithms in
 
 7. [Perceptron](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Perceptron.ipynb)
 
-8. [Binary Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Naive%20Bayes%20Classifier%20Implementation.ipynb)
+8. [Binary Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Binary%20Naive%20Bayes.ipynb)
 
-9. [Multinomial Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Naive%20Bayes.ipynb)
+9. [Multinomial Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Multinomial%20Naive%20Bayes.ipynb)
 
-10. [Gaussian Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Naive%20Bayes.ipynb)
+10. [Gaussian Naive Bayes](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Gaussian%20Naive%20Bayes.ipynb)
 
 11. [Gaussian Discriminat Analyses](https://github.com/bamtak/machine-learning-implemetation-python/blob/master/Gaussian%20Discriminant%20Analyses.ipynb)
 
